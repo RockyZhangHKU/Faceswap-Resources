@@ -44,7 +44,13 @@ The output will be:
 
 **Install dlib in the Ubuntu**
 
-These links will be helpful:  
+These links will be helpful (Here I need a gpu support edition):  
+
+with GPU and cuda support  
+https://laddiexu.github.io/tech/2018/08/10/face-recognition-library-with-python.html  
+
+with no GPU and no cuda support  
 http://www.cnblogs.com/whenyd/p/7721989.html  
 https://www.jianshu.com/p/44469d7d86b3  
 http://einverne.github.io/markdown-style-guide/zh.html#option-wrap-inner-sentence  
+
