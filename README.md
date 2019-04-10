@@ -28,9 +28,8 @@ Or input:
 
 The output will be:
 
-`nvcc: NVIDIA (R) Cuda compiler driver`
-
-`Copyright (c) 2005-2017 NVIDIA Corporation`
+`nvcc: NVIDIA (R) Cuda compiler driver  
+Copyright (c) 2005-2017 NVIDIA Corporation`
 
 `Built on Fri_Sep__1_21:08:03_CDT_2017`
 
