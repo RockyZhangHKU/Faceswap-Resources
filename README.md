@@ -44,7 +44,7 @@ The output will be:
 
 **Install dlib in the Ubuntu**
 
-These link will be helpful:  
+These links will be helpful:  
 http://www.cnblogs.com/whenyd/p/7721989.html  
 https://www.jianshu.com/p/44469d7d86b3  
 http://einverne.github.io/markdown-style-guide/zh.html#option-wrap-inner-sentence  
